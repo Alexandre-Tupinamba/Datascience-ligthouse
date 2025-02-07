@@ -29,3 +29,7 @@ jupyter notebook LH_CD_Alexandre_Tupinamba.ipynb
 ```
 
 ---
+
+## Link para o Vídeo Explicativo  
+O vídeo  do desafio pode ser acessado [aqui](https://drive.google.com/your-video-link).
+
