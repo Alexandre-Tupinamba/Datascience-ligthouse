@@ -1,4 +1,5 @@
 # Predição de Preços de Aluguéis Temporários em Nova York
+![image](https://github.com/user-attachments/assets/8baf428c-46ff-4b0c-a268-2002f80fe0d5)
 
 Este projeto faz parte do **Desafio de Cientista de Dados da Indicium** e tem como objetivo **desenvolver um modelo de previsão de preços para aluguéis temporários** na cidade de Nova York. A análise inclui **exploração dos dados (EDA), engenharia de features e construção de modelos preditivos de Machine Learning**.
 
