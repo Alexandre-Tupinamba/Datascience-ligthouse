@@ -31,5 +31,5 @@ jupyter notebook LH_CD_Alexandre_Tupinamba.ipynb
 ---
 
 ## Link para o Vídeo Explicativo  
-O vídeo  do desafio pode ser acessado [aqui](https://drive.google.com/your-video-link).
+O vídeo  do desafio pode ser acessado [aqui](https://drive.google.com/file/d/1RV7X0CULO7wWlBLn3exHBww6MSQSLfAJ/view?usp=sharing).
 
