@@ -6,7 +6,7 @@ Este projeto faz parte do **Desafio de Cientista de Dados da Indicium** e tem co
 
 ### 1.1. Clonar o Repositório
 ```bash
-git clone https://github.com/Alexandre-Tupinamba/Datascience-ligthouse
+git clone https://github.com/Alexandre-Tupinamba/Datascience-ligthouse.git
 cd Datascience-ligthouse
 ```
 
