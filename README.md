@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ---
 Para executar a análise exploratória:
 ```bash
-jupyter notebook LH_CD_AlexandreTupinamba.ipynb
+jupyter notebook LH_CD_Alexandre_Tupinamba.ipynb
 ```
 
 ---
